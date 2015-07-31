@@ -7,7 +7,7 @@ import Base.Pkg.add
 export main, add
 
 
-const packages = [ "a",
+const packages = [
     "IJulia", "BackpropNeuralNet", "Bokeh", "Boltzmann", "Calculus",
     "Clustering", "Convex", "Cpp", "DataArrays", "DataFrames", "DataFramesMeta",
     "DataStructures", "DecisionTree", "Distances", "Distributions", "DSP",
