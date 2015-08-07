@@ -1,6 +1,6 @@
 # juliabook
 
-This is the companion repository to the #juliabook, officially known as _Learn Julia_, by Chris von Csefalvay and published by Manning.
+This is the companion repository to the #juliabook, officially known as _Learn Julia_, by Chris von Csefalvay and published by Manning. Go [here](http://www.manning.com/voncsefalvay) to buy the Early Access version. **Use the voucher code `MLCSEFAL` to get 50% off!**
 
 Each of the folders contains, among others, the chapter-closing final exercise and any source materials you might require to follow along.
 
