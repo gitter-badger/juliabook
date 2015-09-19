@@ -6,12 +6,14 @@ Each of the folders contains, among others, the chapter-closing final exercise a
 
 # Repo contents
 
-## ch04
+## `ch04`
 
+*`hamlet.txt`: The source version of Shakespeare's Hamlet used for the final exercise for Chapter 04.
+*`final-exercise-ch04.ipynb`: IJulia notebook for the final exercise to Chapter 04.
 
+## `misc`
 
-## misc
-
+* `UsefulPackages.jl`: A one-stop shop of the 45 most useful and popular Julia packages. Many of these go beyond what is discussed in this book and aren't necessarily required for the purposes of following along with the book, but this is a good starter for your library of Julia packages!
 
 
 
