@@ -8,13 +8,13 @@ Each of the folders contains, among others, the chapter-closing final exercise a
 
 ## `ch04`
 
-*`hamlet.txt`: The source version of Shakespeare's Hamlet used for the final exercise for Chapter 04.
-*`final-exercise-ch04.ipynb`: IJulia notebook for the final exercise to Chapter 04.
+* `hamlet.txt`: The source version of Shakespeare's Hamlet used for the final exercise for Chapter 04.
+* `final-exercise-ch04.ipynb`: IJulia notebook for the final exercise to Chapter 04.
 
 ## `ch05`
 
-*`dataset.jl`: The data set - 360 subsequent, daily observations of body weight in a 26-year-old male
-*`final-exercise-ch05.ipynb`: IJulia notebook for the final exercise to Chapter 05.
+* `dataset.jl`: The data set - 360 subsequent, daily observations of body weight in a 26-year-old male
+* `final-exercise-ch05.ipynb`: IJulia notebook for the final exercise to Chapter 05.
 
 ## `misc`
 
